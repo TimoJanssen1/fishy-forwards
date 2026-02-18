@@ -8,6 +8,28 @@ Structured fish.
 
 ## Collection of random sources
 
+### List of active firms contributing to the SISALMONI Index
+
+- Bravo Seafood
+- Cermaq
+- Coast Seafood
+- Fram Seafood
+- Måsøval
+- Mowi
+- Nor Seafood
+- Nordlaks
+- North Sea Seafood
+- Norwegian Seafood
+- Norwell
+- Nova Sea
+- Ocean Supreme
+- Polar Quality
+- Sekkingstad
+- Sjór
+- Star Seafood
+
+### Websites
+
 - https://live.euronext.com/en/product/commodities-futures/ESF-DPAR/contract-specification
 - https://www.stonex.com/en/financial-glossary/salmon-futures/
 - https://live.euronext.com/en/product/commodities-futures/ESF-DPAR
